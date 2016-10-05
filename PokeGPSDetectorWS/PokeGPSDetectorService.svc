@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="PokeGPSDetectorWS.PokeGPSDetectorService" CodeBehind="PokeGPSDetectorService.svc.cs" %>
